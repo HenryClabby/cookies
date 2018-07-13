@@ -1,6 +1,7 @@
 # AngularCookies
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
+node_modules not included and must be copied or pulled from somewhere else.
 
 ## Development server
 
